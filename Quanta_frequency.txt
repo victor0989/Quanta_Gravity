@@ -1,0 +1,13 @@
+ASCII Diagram of Frequency Distortions and Gravitational Portals
+Here’s a simplified ASCII representation of a 6D space-time distortion leading to a gravitational portal:
+
+    ~~~~~~~~∞~~~~~~~~
+   ~~        ⟡        ~~
+  ~          ⟡⟡         ~
+ ~          ⟡⟡⟡          ~
+~          ⟡⟡⟡⟡          ~
+~  ⟡⟡⟡⟡⟡⟡⟡⟡⟡⟡  ~
+ ~  ⟡⟡⟡⟡⟡⟡⟡⟡  ~
+  ~  ⟡⟡⟡⟡⟡⟡  ~
+   ~~ ⟡⟡⟡⟡  ~~
+     ~~~~~~~~∞~~~~~~~~
