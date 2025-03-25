@@ -1,6 +1,12 @@
 ASCII Diagram of Frequency Distortions and Gravitational Portals
 Here’s a simplified ASCII representation of a 6D space-time distortion leading to a gravitational portal:
 
+1. The central region (⟡⟡⟡⟡) represents the quantum-gravitational anomaly.
+
+2. The outer layers (~~~) are wave-like distortions propagating outward.
+
+3. The ∞ at the top and bottom represents a time inversion effect (suggesting a non-linear temporal loop).
+
     ~~~~~~~~∞~~~~~~~~
    ~~        ⟡        ~~
   ~          ⟡⟡         ~
