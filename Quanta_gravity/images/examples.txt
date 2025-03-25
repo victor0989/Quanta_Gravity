@@ -1,1 +1,5 @@
+```mermaid
+graph TD;
+  Quantum_Algorithms -->|Process| Black_Hole_Structure;
+  Nanotechnology -->|Materials| Space_Exploration;
 
