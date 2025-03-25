@@ -27,8 +27,13 @@ This repository explores the intersection of nanotechnology, gravitational struc
 7. Integration of Concepts and Future Perspectives
    - 7.1 Convergence between Nanotechnology, Quantum Algorithms, and Gravity
    - 7.2 Challenges and Possibilities for Particle Manipulation and Dimensional Exploration
-8. Conclusions
 
+--
+
+Frequencies & Quanta gravity/other dimensions/representation
+![Quanta Gravity](https://github.com/victor0989/Quanta_Gravity/blob/main/Quanta_gravity/images/Captura%20de%20pantalla%202025-03-25%20054007.png)
+
+--
 ## Theoretical Framework
 ### String Theory and Compactified Dimensions
 String theory suggests that fundamental particles are not points but vibrating "strings" extending into multiple dimensions, some of which are compactified. These dimensions can be imagined as layered structures where physical properties emerge from the way strings vibrate within each layer.
