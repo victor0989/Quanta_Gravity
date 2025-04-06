@@ -1,0 +1,79 @@
+
+Spherically Symmetric Black Hole Metric — Advanced Coordinates
+==============================================================
+
+1. Line Element
+---------------
+
+The general form of a spherically symmetric metric in advanced Eddington–Finkelstein coordinates is:
+
+    ds² = F(r) A²(r) dV² + 2 A(r) V dr + r² dΩ²
+
+Where:
+- F(r) is the metric function (e.g., Schwarzschild: F(r) = 1 - 2M/r)
+- A(r) is a coordinate-dependent scaling factor
+- V is the advanced null coordinate
+- r is the radial coordinate
+- dΩ² is the angular part of the metric:
+
+    dΩ² = dθ² + sin²θ dφ²
+
+2. Angular Geometry
+-------------------
+
+The angular term corresponds to the geometry of the 2-sphere:
+
+    θ ∈ [0, π]
+    φ ∈ [0, 2π)
+
+This defines the geometry of spherical symmetry.
+
+3. Riemann Tensor Components (Non-zero)
+---------------------------------------
+
+The Riemann curvature tensor measures how spacetime bends due to gravity:
+
+    R^ρ_{ σμν } = ∂μ Γ^ρ_{νσ} − ∂ν Γ^ρ_{μσ} + Γ^λ_{νσ} Γ^ρ_{μλ} − Γ^λ_{μσ} Γ^ρ_{νλ}
+
+Selected non-zero components in spherical symmetry:
+
+    R^θ_{φθφ} = r² sin²θ (1 − F(r))
+    R^r_{θrθ} = −½ r F'(r)
+    R^r_{VrV} = −½ A² F''(r)
+
+4. Ricci Tensor Components
+--------------------------
+
+Obtained by contracting the Riemann tensor:
+
+    R_{μν} = R^λ_{ μλν }
+
+Representative components:
+
+    R_{VV} = −½ A² F''(r)
+    R_{rr} = −F''(r)/2 + F'(r)/r
+    R_{θθ} = r F'(r) + F(r) − 1
+    R_{φφ} = sin²θ · R_{θθ}
+
+5. Einstein Tensor and Field Equations
+--------------------------------------
+
+The Einstein tensor:
+
+    G_{μν} = R_{μν} − ½ g_{μν} R
+
+Einstein’s Field Equations:
+
+    G_{μν} = 8π T_{μν}
+
+For vacuum (T_{μν} = 0): Schwarzschild or Reissner–Nordström
+
+For matter or fields: Coupling with stress-energy tensor
+
+6. Special Cases of the Metric Function F(r)
+--------------------------------------------
+
+- Schwarzschild:            F(r) = 1 − 2M/r
+- Reissner–Nordström:      F(r) = 1 − 2M/r + Q²/r²
+- Schwarzschild–de Sitter: F(r) = 1 − 2M/r − Λ r²/3
+
